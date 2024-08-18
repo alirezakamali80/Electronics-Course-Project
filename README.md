@@ -11,7 +11,7 @@ The project began with circuit modeling and simulation in the Proteus software, 
 ![Proteus_Circuit](./Proteus_Circuit.png)
 
 This step was crucial in verifying the functionality of the circuit before proceeding with the physical implementation. Following the simulation, the necessary components were procured, as detailed in below:
-![Components_list_picture](./Components_list_picture.png)
+![Components_list_picture](./Components_List.PNG)
 
 And the circuit was assembled. The final setup, documented in below:
 ![FinalSetup](./FinalSetup.png)
