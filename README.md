@@ -23,3 +23,6 @@ Throughout the project, the Arduino proved to be a powerful tool for implementin
 
 ## Conclusion
 Overall, this project not only demonstrated the successful design and implementation of a temperature-controlled cooling system but also underscored the importance of simulation in circuit design and the practicality of Arduino for real-world applications.
+
+### Team Members
+I specially thank to my teammates: Amirreza Moharammi, Younes Heydari, Arian Ariakia for this valuable contribution. :)
